@@ -1,0 +1,11 @@
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\bin\Release\Test_CSharp_SDK.exe.config
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\bin\Release\Test_CSharp_SDK.exe
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\bin\Release\Test_CSharp_SDK.pdb
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\bin\Release\App42_CSHARP_SDK_1.5.dll
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\bin\Release\App42_CSHARP_SDK_1.5.pdb
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\obj\x86\Release\App42_CSharp_Sample.csprojResolveAssemblyReference.cache
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\obj\x86\Release\Test_CSharp_SDK.exe
+D:\Public Repo\App42_CSHa\1.5\app42_csharp_1.5\sample\Test_CSharp_SDK\obj\x86\Release\Test_CSharp_SDK.pdb
+F:\Public repo\App42_Csharp_SDK\sample\Test_CSharp_SDK\bin\Release\Test_CSharp_SDK.exe.config
+F:\Public repo\App42_Csharp_SDK\sample\Test_CSharp_SDK\obj\x86\Release\Test_CSharp_SDK.exe
+F:\Public repo\App42_Csharp_SDK\sample\Test_CSharp_SDK\obj\x86\Release\Test_CSharp_SDK.pdb
